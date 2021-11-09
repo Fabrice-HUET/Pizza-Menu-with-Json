@@ -57,9 +57,12 @@ p {
     margin-block-end: 0rem;
 }
 
+body{
+    background-color:  #2F4F4F;
+}
+    
 .background {
-    background-color: #2F4F4F;
-    background-image: url(../images/bkg.jpg);
+    background-image: url="./images/bkg.jpg";
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
