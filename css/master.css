@@ -62,7 +62,7 @@ body{
 }
     
 .background {
-    background-image: url=(../images/bkg.jpg);
+    background-image: url=("../images/bkg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
